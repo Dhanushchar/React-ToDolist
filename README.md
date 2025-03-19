@@ -1,2 +1,2 @@
-# React-ToDolist
-TO create a dynamic and interactive application
+# reactjs-todolist
+ CRUD TODO APP W. REACTJS
